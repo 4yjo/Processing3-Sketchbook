@@ -1,3 +1,5 @@
+// example from prosessing.org, see random_vs_noise to compare output of both functions
+
 float xoff = 0.0;
 
 void draw() {
