@@ -22,4 +22,6 @@ void draw(){
      
     fill(20,100,70,200); // set semi-transparent green color
     rect(a,b,c,d); //uses random values declared above to position rectangle
+    
+    saveFrame("screen-####.png"); //saves picture of every frame
 }
