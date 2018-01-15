@@ -12,5 +12,6 @@ Example random_rect.pde
 Example moving_car.pde
 ![moving_car](/../example_images/example_car.png?raw=true "Example moving car")
 
-
+Example rectangle_position.pde
+![rectangle_position](/../example_images/example%20rectangle_position.png?raw=true "Example rectangle position")
 
