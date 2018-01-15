@@ -1,5 +1,6 @@
 # Processing3-Sketchbook
-# Collection of my processing sketches, most of them playing with random()-function
+# Collection of my processing sketches, most of them playing with random()-function.
+Therefore the some of the given example images (as random_array_3d) are showing just one out of many possible outcomes.
 The Code is written and compiled for Processing3.
 
 Example random_array_3d.pde
