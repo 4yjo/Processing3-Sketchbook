@@ -8,5 +8,8 @@ Example random_array_3d.pde
 Example random_rect.pde
 ![random_rect](/../example_images/sc-000005.jpg?raw=true "Example random rect")
 
+Example moving_car.pde
+![moving_car](/../example_images/example_car.png?raw=true "Example moving car")
+
 
 
